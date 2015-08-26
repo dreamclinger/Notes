@@ -1,0 +1,7 @@
+#告訴Git忽略檔名
+*.o
+*.mat
+*.rar 
+*.zip 
+*.tgz 
+bak/
